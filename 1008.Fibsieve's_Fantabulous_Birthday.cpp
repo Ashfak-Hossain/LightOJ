@@ -15,9 +15,6 @@ int main()
     int testCase;
     cin >> testCase;
 
-    int testCase;
-    cin >> testCase;
-
     for (int i = 1; i <= testCase; i++)
     {
         long long seconds, root, lackings, row, column;
