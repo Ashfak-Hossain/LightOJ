@@ -27,7 +27,8 @@ int main()
         double r = (R * sin(pi / n * 1.0)) / (1 + sin(pi / n * 1.0));
 
         cout << setprecision(10); // To get the decimal point number to 10 digits
-        
+
         cout << "Case " << i << ": " << r << endl;
     }
+    return 0;
 }
