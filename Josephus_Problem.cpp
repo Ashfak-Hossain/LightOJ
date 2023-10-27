@@ -28,6 +28,7 @@ int main()
     {
 
         cin >> n >> k;
+        cout << "Case " << i << ": ";
         cout << fun(n) << endl;
     }
 
