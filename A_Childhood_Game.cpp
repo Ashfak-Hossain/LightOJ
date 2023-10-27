@@ -37,7 +37,7 @@ int main()
             if (n % 3 != 0)
                 cout << "Bob" << endl;
             else
-                cout << "Alic" << endl;
+                cout << "Alice" << endl;
         }
     }
 
